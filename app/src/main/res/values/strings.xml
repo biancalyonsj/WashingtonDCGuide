@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Washington DC Guide</string>
+
+    <!-- Category names for corresponding tabs -->
+    <string name="category_museums">Museums</string>
+    <string name="category_memorials">Memorials</string>
+    <string name="category_govt">Govt Buildings</string>
+    <string name="category_eatery">Eatery</string>
+
+    <!-- Place names for Museums -->
+    <string name="air_museum">National Air and Space Museum</string>
+    <string name="african_museum">National Museum of African American History and Culture</string>
+    <string name="american_museum">National Museum of American History</string>
+    <string name="natural_museum">National Museum of Natural History</string>
+    <string name="indian_museum">National Museum of the American Indian</string>
+    <string name="hirshhorn_museum">Hirshhorn Museum and Sculpture Garden</string>
+    <string name="smithsonian_museum">Smithsonian National Museum of African Art</string>
+    <string name="gallery_museum">National Gallery of Art</string>
+    <string name="holocaust_museum">United States Holocaust Memorial Museum</string>
+
+    <!-- Place names for Memorials -->
+    <string name="washington_memorial">Washington Monument</string>
+    <string name="wwii_memorial">WWII Memorial</string>
+    <string name="vietnam_memorial">Vietnam Veterans Memorial</string>
+    <string name="lincoln_memorial">Lincoln Memorial</string>
+    <string name="mlk_memorial">Dr. Martin Luther King, Jr Memorial</string>
+    <string name="fdr_memorial">Franklin D. Roosevelt Memorial</string>
+    <string name="jefferson_memorial">Jefferson Memorial</string>
+    <string name="iwo_memorial">Iwo Jima Marine Corps Memorial</string>
+    <string name="air_memorial">Air Force Memorial</string>
+    <string name="albert_memorial">Albert Einstein Memorial</string>
+
+    <!-- Place names for Government Buildings -->
+    <string name="uscap_govt">United States Capitol</string>
+    <string name="house_govt">White House</string>
+    <string name="archives_govt">National Archives</string>
+    <string name="library_govt">Library of Congress</string>
+    <string name="supreme_govt">Supreme Court of the United States</string>
+    <string name="pentagon_govt">The Pentagon</string>
+    <string name="fbi_govt">FBI Headquarters</string>
+
+    <!-- Place names for Eatery -->
+    <string name="hamilton_eat">The Hamilton</string>
+    <string name="clyde_eat">Clyde\'s of Georgetown</string>
+    <string name="georgetown_eat">Georgetown Cupcake</string>
+    <string name="carmine_eat">Carmine\'s Italian Restaurant</string>
+    <string name="we_eat">We The Pizza</string>
+    <string name="cafe_eat">Café Dupont</string>
+    <string name="red_eat">Red Velvet Cupcakery</string>
+    <string name="busboys_eat">Busboys and Poets</string>
+    <string name="grillfish_eat">Grillfish</string>
+    <string name="pizza_eat"><![CDATA[&Pizza]]></string>
+    <string name="jaleo_eat">Jaleo</string>
+    <string name="toki_eat">Toki Underground</string>
+    <string name="astro_eat"><![CDATA[Astro Doughnuts & Fried Chicken]]></string>
+    <string name="rinconcito_eat">El Rinconcito Cafe</string>
+
+
+</resources>
