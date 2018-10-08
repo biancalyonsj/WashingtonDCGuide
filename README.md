@@ -1,6 +1,5 @@
 # WashingtonDCGuide
-<b> A Multi-Screen app that presents a list of Museums, Memorials, Government Buildings, and Restaurants to a user who’s
-visiting Washington DC </b> 
+<b> A multi-screen app that displays a list of Museums, Memorials, Government Buildings, and Restaurants in Washington DC. </b> 
 
 <p> Project #5 for the <b>Android Basics Nanodegree</b> by Google </p>
 
